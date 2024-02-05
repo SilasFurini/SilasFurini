@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Silas Furini.
 
-- 🔭 Hoje trabalho com back-end
-- 🌱 Estudando Java, Spring, SQL, HTML & CSS, JavaScript, AngularJS e Git.
+- 🔭 Back-end / FullStack;
+- 🌱 Estudando Java, Spring, SQL, HTML & CSS, JavaScript, Angular e Git.
 - 😄 Pronomes: ele/dele
 
 <div align="center">
