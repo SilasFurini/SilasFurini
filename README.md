@@ -11,7 +11,7 @@
 </div>
   
   <div style="display: inline_block"><br>
-    <img align="center" alt="Silas-Python" height="30" width="40" src="https://icons8.com.br/icon/13441/python" />
+  <img align="center" alt="Silas-Python" height="30" width="40"  src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/>
   <img align="center" alt="Silas-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
   <img align="center" alt="Silas-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
   <img align="center" alt="Silas-SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
