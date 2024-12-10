@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Silas Furini.
 
-- 🔭 Desenvolvedor de Software;
+- 🔭 Desenvolvedor de Software / Backend / Fullstack;
 - 🌱 Estudando Java, Spring, SQL.
 - 😄 Pronomes: ele/dele
 
