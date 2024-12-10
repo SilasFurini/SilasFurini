@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Silas Furini.
 
-- 🔭 Cientista de Dados;
-- 🌱 Estudando Python, Django, SQL.
+- 🔭 Desenvolvedor de Software;
+- 🌱 Estudando Java, Spring, SQL.
 - 😄 Pronomes: ele/dele
 
 <div align="center">
