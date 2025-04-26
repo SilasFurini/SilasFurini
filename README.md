@@ -1,8 +1,9 @@
 ### Olá! Eu sou o Silas Furini.
 
 - 🔭 Desenvolvedor de Software / Backend / Fullstack;
-- 🌱 Estudando Java, Spring, SQL.
-- 😄 Pronomes: ele/dele
+- 👩‍💻 Desenvolvedor Full Stack @tre_tocantins; 
+- 🚀 Java | Spring Boot | AWS | Angular | Docker | Typescript | Javascript | HTML | CSS
+- 🎓 Graduado em Análise e Desenvolvimento de Sistemas - FIAP;
 
 <div align="center">
   <a href="https://github.com/SilasFurini">
