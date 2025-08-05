@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Silas Furini.
 
 - 🔭 Desenvolvedor de Software / Backend / Fullstack;
-- 👩‍💻 Desenvolvedor Full Stack at [@tre_tocantins](https://www.instagram.com/tre_tocantins/)
+- 👩‍💻 Desenvolvedor Full Stack at [@tre_tocantins](https://www.instagram.com/bancobrb/)
 - 🚀 Java | Spring | Angular | AWS | Docker | Typescript | Javascript | HTML | CSS
 - 🎓 Graduado em Análise e Desenvolvimento de Sistemas - FIAP;
 
