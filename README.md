@@ -2,7 +2,7 @@
 
 - 🔭 Desenvolvedor de Software / Backend / Fullstack;
 - 👩‍💻 Desenvolvedor Full Stack at @bancobrb
-- 🚀 Golang | Gin | Java | Spring | AWS | Docker | Angular | Typescript | Javascript | HTML | CSS
+- 🚀 Java | Spring | AWS | GCP| Docker | Kubernetes | Angular | Typescript | Javascript
 - 🎓 Graduado em Análise e Desenvolvimento de Sistemas - FIAP;
 
 <div align="center">
