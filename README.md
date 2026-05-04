@@ -1,8 +1,9 @@
 ### Olá! Eu sou o Silas Furini.
 
-- 🔭 Desenvolvedor de Software / Backend / Fullstack;
-- 👩‍💻 Desenvolvedor Full Stack at @bancobrb
-- 🚀 Java | Spring | AWS | GCP| Docker | Kubernetes | Angular | Typescript | Javascript
+- 🔭 Arquiteto de Software / Desenvolvedor de Software / Backend / Fullstack;
+- 👩‍💻 Arquiteto de Software at @gestaogovbr
+- 🚀 Java | Spring | AWS | GCP| Docker | Kubernetes | Angular | React | Typescript | Javascript
+- 🎓 Pós-graduação em andamento em Software Architecture - FIAP;
 - 🎓 Graduado em Análise e Desenvolvimento de Sistemas - FIAP;
 
  ##
